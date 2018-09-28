@@ -98,7 +98,6 @@ li {
 
 li a {
     display: block;
-    text-align: center;
     padding: 20px 15px;
     text-decoration: none;
     color: grey;
@@ -286,7 +285,7 @@ footer p{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    line-height: 1.3;
+    line-height: 2;
 }
 
 .services-header-img {
@@ -307,7 +306,7 @@ footer p{
 .page-content .box {
     padding: 20px;
     border: 1px solid black;
-    width: 420px;
+   width: 48%;
     background: whitesmoke;
     margin: 20px 0;
 }
